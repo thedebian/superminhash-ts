@@ -1,0 +1,9 @@
+__tests__
+.DS_Store
+coverage
+dist
+node_modules
+*.config.js
+*.config.ts
+.nvmrc
+.prettierrc
